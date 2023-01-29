@@ -1,7 +1,7 @@
-<h1 align="center"> Habits </h1>
+<h1 align="center"> Formulario com modo Dark/Light </h1>
 
 <p align="center">
-NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+Formulario desenvolvido através de um tutorial no youtube para estudar sobre como implementar o modo escuro em sites WEB. <br/>
 </p>
 
 <p align="center">
@@ -18,7 +18,10 @@ NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de 
 <br>
 
 <p align="center">
-  <img alt="projeto Habits" src=".github/preview.png" width="100%">
+<h1 align="center">Light</h1>
+  <img alt="Projeto Light" src=".github/preview_light.JPG" width="100%">
+<h1 align="center">Dark</h1>
+  <img alt="projeto Dark" src=".github/preview_dark.JPG" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -28,17 +31,17 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript
 - Git e Github
-- Figma
+- Font Awesome
 
 ## 💻 Projeto
 
-O Habits é um app para ajudar a rastrear os hábitos.
+Formulario desenvolvido para estudar sobre o modo Light e Modo Dark em sites Web.
 
-- [Visite o projeto online](https://matheuspieta.github.io/nlw-setup/)
+- [Visite o projeto online](https://matheuspieta.github.io/Formulario_Dark_light/)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o tutorial do projeto através [DESSE LINK](https://www.youtube.com/watch?v=LOjQYWRJmbk&ab_channel=LarissaKich).
 
 ## :memo: Licença
 
@@ -46,4 +49,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by Matheus Pieta
